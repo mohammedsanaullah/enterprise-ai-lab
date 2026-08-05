@@ -7,3 +7,6 @@
 01-copilot-fundamentals/**/.venv/
 01-copilot-fundamentals/**/.vscode/
 01-copilot-fundamentals/**/.idea/
+
+# macOS
+.DS_Store
