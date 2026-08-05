@@ -2,17 +2,19 @@
 
 Author: Mohammed Sanaullah
 
-This repository documents a structured learning path for AI solution architecture. The content is organized into numbered modules that cover the key skills and domains for modern AI solution design.
+My hands-on journey exploring AI-assisted software engineering, AI agents, MCP, RAG, and enterprise AI architecture.
 
-## Structure
+## Completed
 
-- `01-copilot-fundamentals/`
+✅ Level 1: GitHub Copilot Fundamentals
 
-## Reference Files
-
-- `ROADMAP.md` - learning path and module progression
-- `LEARNING_LOG.md` - personal learning journal and milestones
-- `PROJECTS.md` - project ideas, tracking, and scope
+Topics:
+- Copilot Chat
+- Prompt engineering
+- AI-assisted coding
+- Code review
+- Refactoring
+- Unit testing
 
 ## How to Use
 
