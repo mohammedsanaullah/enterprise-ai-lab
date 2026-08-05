@@ -26,6 +26,3 @@ class Task:
         status = "✅" if self.completed else "⬜"
         return f"{status} [{self.task_id}] {self.title}"
 
-task1 = Task(1,"Learn Python")
-
-print(task1)
