@@ -1,11 +1,5 @@
 # Roadmap
 
-This repository is structured as a learning path for AI solution architecture. Each numbered module represents a focused domain, with progressively advanced concepts.
-
-1. `01-copilot-fundamentals/` - Learn GitHub Copilot workflows and AI-assisted development.
-
-# Roadmap
-
 This repository is structured as a learning path for AI solution architecture and AI engineering. Each numbered module represents a focused domain, with progressively advanced concepts and projects.
 
 1. `01-copilot-fundamentals/` - Learn GitHub Copilot workflows, prompt patterns, and AI-assisted development with a beginner-friendly Python mini-project.
