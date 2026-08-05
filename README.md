@@ -4,17 +4,23 @@ Author: Mohammed Sanaullah
 
 My hands-on journey exploring AI-assisted software engineering, AI agents, MCP, RAG, and enterprise AI architecture.
 
-## Completed
+## Learning Progress
 
 ✅ Level 1: GitHub Copilot Fundamentals
 
-Topics:
+Completed:
 - Copilot Chat
 - Prompt engineering
 - AI-assisted coding
 - Code review
 - Refactoring
 - Unit testing
+
+Next:
+- Vibe Programming
+- MCP (Model Context Protocol)
+- AI Agents
+- RAG
 
 ## How to Use
 
