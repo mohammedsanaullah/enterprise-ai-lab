@@ -11,7 +11,6 @@ This repository documents a structured learning path for AI solution architectur
 - `ROADMAP.md` - learning path and module progression
 - `LEARNING_LOG.md` - personal learning journal and milestones
 - `PROJECTS.md` - project ideas, tracking, and scope
-- `LICENSE` - project license
 
 ## How to Use
 
