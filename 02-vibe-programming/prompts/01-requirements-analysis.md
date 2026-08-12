@@ -7,8 +7,7 @@ writing any code.
 
 ## Prompt
 
-I am building a learning project for an Enterprise AI Engineering
-portfolio.
+I am building a learning project for an Enterprise AI Engineering portfolio.
 
 The project is a fictional Vehicle Insurance Policy Generator.
 
@@ -17,18 +16,13 @@ A user should provide:
 - vehicle manufacturing year
 - vehicle price
 
-The application should calculate a yearly insurance premium and
-generate a one-page PDF policy document named:
+The application should calculate a yearly insurance premium and generate a one-page PDF policy document named:
 
-<customer-name>-policy.pdf
+`<customer-name>-policy.pdf`
 
-The PDF should contain mostly static policy information with a
-small number of dynamic fields such as customer name, vehicle
-year, vehicle value, yearly premium, policy number and issue date.
+The PDF should contain mostly static policy information with a small number of dynamic fields such as customer name, vehicle year, vehicle value, yearly premium, policy number and issue date.
 
-This is a fictional learning application and must clearly state
-that the generated document is a sample and not a real insurance
-certificate.
+This is a fictional learning application and must clearly state that the generated document is a sample and not a real insurance certificate.
 
 Before writing any code:
 

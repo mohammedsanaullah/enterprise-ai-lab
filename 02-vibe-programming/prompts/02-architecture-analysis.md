@@ -215,6 +215,7 @@ the project is intentionally small.
 
 ### Final Architecture
 
+```text
 vehicle-insurance/
 ├── README.md
 ├── src/
@@ -225,6 +226,7 @@ vehicle-insurance/
 │   ├── filename_utils.py
 │   └── pdf_generator.py
 └── tests/
+```
 
 ## Learning
 
