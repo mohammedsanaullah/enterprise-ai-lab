@@ -2,8 +2,7 @@
 
 ## Purpose
 
-Analyse the initial business idea and identify the requirements before
-writing any code.
+Analyse the initial business idea and identify the requirements before writing any code.
 
 ## Prompt
 
@@ -32,8 +31,7 @@ Before writing any code:
 4. Identify input validation requirements.
 5. Identify potential edge cases.
 6. Identify business rules that need to be decided.
-7. Suggest questions that a developer should clarify before
-   implementation.
+7. Suggest questions that a developer should clarify before implementation.
 
 Do not generate code.
 Do not assume missing business rules.
@@ -175,12 +173,10 @@ The application is a learning-focused Vehicle Insurance Policy Generator that:
 Copilot suggested several business rules that had not yet been
 defined. These were not automatically accepted.
 
-The premium formula was explicitly decided by myself rather
-than delegated to AI.
+The premium formula was explicitly decided by myself rather than delegated to AI.
 
 ## Learning
 
-This exercise demonstrated that Vibe Programming should begin with
-requirements analysis rather than immediately generating code.
+This exercise demonstrated that Vibe Programming should begin with requirements analysis rather than immediately generating code.
 
 I used AI to identify requirements and raise important questions, while I retained responsibility for the final business decisions.

@@ -2,8 +2,7 @@
 
 ## Purpose
 
-Use the approved requirements to propose a simple modular architecture
-before implementation.
+Use the approved requirements to propose a simple modular architecture before implementation.
 
 ## Context Provided to AI
 
@@ -210,8 +209,7 @@ because these values represent monetary amounts.
 
 No separate `policy_number.py` module will be created.
 
-Policy number generation will remain within the policy domain because
-the project is intentionally small.
+Policy number generation will remain within the policy domain because the project is intentionally small.
 
 ### Final Architecture
 

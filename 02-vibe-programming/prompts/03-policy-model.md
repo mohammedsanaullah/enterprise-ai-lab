@@ -2,8 +2,7 @@
 
 ## Purpose
 
-Implement the policy data model as the first step of the application.
-No other application functionality should be implemented at this stage.
+Implement the policy data model as the first step of the application. No other application functionality should be implemented at this stage.
 
 ## Context Provided to AI
 
@@ -19,8 +18,7 @@ Read the following project context before doing anything:
 - requirements.md
 - the architecture documented in 02-architecture-analysis.md
 
-We are implementing the Vehicle Insurance Policy Generator
-incrementally.
+We are implementing the Vehicle Insurance Policy Generator incrementally.
 
 For this step, implement ONLY the policy data model.
 
@@ -50,8 +48,7 @@ Requirements:
 7. Do not create any other files.
 8. Explain the design decisions before providing the code.
 
-Follow the existing requirements and architecture.
-Do not invent additional business rules.
+Follow the existing requirements and architecture. Do not invent additional business rules.
 
 ## AI Response
 
@@ -79,21 +76,16 @@ I accepted Copilot's proposed `Policy` data model.
 ### Decisions I accepted
 
 - I used `@dataclass` because the class primarily represents policy data.
-- I used `Decimal` for vehicle price and yearly premium because these
-  fields represent monetary values.
+- I used `Decimal` for vehicle price and yearly premium because these fields represent monetary values.
 - I used `date` for the issue date rather than storing it as a string.
 - I kept the model free from validation, calculation, CLI and PDF logic.
 
 ### Correction
 
-The generated response had an indentation issue in the class
-docstring and fields. I corrected the formatting so that the Python
-code is syntactically valid.
+The generated response had an indentation issue in the class docstring and fields. I corrected the formatting so that the Python code is syntactically valid.
 
 ## Final Decision
 
-I accepted the implementation because it follows the architecture and
-keeps the `Policy` class focused on representing policy data.
+I accepted the implementation because it follows the architecture and keeps the `Policy` class focused on representing policy data.
 
-This was my first implementation step using an AI-generated solution,
-which I reviewed and corrected before accepting.
+This was my first implementation step using an AI-generated solution, which I reviewed and corrected before accepting.
