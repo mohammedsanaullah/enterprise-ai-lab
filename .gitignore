@@ -1,12 +1,12 @@
 # Ignore generated and local files under 01-copilot-fundamentals
 01-copilot-fundamentals/examples/sample.txt
 01-copilot-fundamentals/mini-project/src/tasks.json
-01-copilot-fundamentals/**/__pycache__/
-01-copilot-fundamentals/**/*.py[cod]
-01-copilot-fundamentals/**/.DS_Store
-01-copilot-fundamentals/**/.venv/
-01-copilot-fundamentals/**/.vscode/
-01-copilot-fundamentals/**/.idea/
+**/__pycache__/
+**/*.py[cod]
+**/.DS_Store
+**/.venv/
+**/.vscode/
+**/.idea/
 
 # macOS
 .DS_Store
