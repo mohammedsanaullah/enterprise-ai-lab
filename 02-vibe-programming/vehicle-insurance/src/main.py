@@ -48,7 +48,9 @@ def main() -> None:
         filename = build_policy_filename(customer_name)
 
         # 7. Resolve unique filename and generate PDF
-        out_dir = Path.cwd()
+        out_dir = Path.cwd() / "output"
+        out_dir.mkdir(parents=True, exist_ok=True)
+        
         target_path = resolve_unique_filename(out_dir, filename)
         pdf_path = generate_policy_pdf(policy, target_path)
 
