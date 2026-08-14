@@ -1,6 +1,7 @@
 # Ignore generated and local files under 01-copilot-fundamentals
 01-copilot-fundamentals/examples/sample.txt
 01-copilot-fundamentals/mini-project/src/tasks.json
+02-vibe-programming/vehicle-insurance/output/
 **/__pycache__/
 **/*.py[cod]
 **/.DS_Store

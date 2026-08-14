@@ -116,3 +116,14 @@ and successfully running the application.
 I learned how the individual modules developed through Vibe Programming
 can be composed into a complete working application while keeping
 each responsibility separate.
+
+## Additional Human Decision
+
+I decided that generated PDF files should be stored in a dedicated
+`output/` directory rather than the project root.
+
+This keeps generated artifacts separate from source code and makes the
+project structure easier to maintain.
+
+The output directory is created automatically if it does not exist,
+and generated PDFs are excluded from Git tracking.
